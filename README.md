@@ -1,5 +1,9 @@
-# Whirlwind-Vinilla
-Keep vanilla, but with more stuff that should fit in, that makes vanilla feel more fun and powerful!
-Thanks!
+# Fabric Example Mod
 
-Follow for more!
+## Setup
+
+For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+
+## License
+
+This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.

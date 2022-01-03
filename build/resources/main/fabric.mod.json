@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "whirv",
+  "version": "1.0.0",
+
+  "name": "Whirlwind Vanilla",
+  "description": "Keep vanilla, but with more stuff that should fit in, that makes vanilla feel more fun and powerful!",
+  "authors": [
+    "Tha4i"
+  ],
+  "contact": {
+    "homepage": "https://github.com/Tha7i",
+    "sources": "https://github.com/Tha7i/Whirlwind-Vinilla"
+  },
+
+  "license": "",
+  "icon": "assets/whirv/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ait.whirv.WhirlwindVanilla"
+    ]
+  },
+  "mixins": [
+    "modid.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
